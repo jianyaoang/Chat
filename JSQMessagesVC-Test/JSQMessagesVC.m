@@ -284,7 +284,7 @@
         }
         else
         {
-            NSLog(@"Can't upload the image");
+            NSLog(@"No photo library found");
         }
     }];
     

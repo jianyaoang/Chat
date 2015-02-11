@@ -10,31 +10,31 @@
 	<string>JSQMessagesVC-Test</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>B077713B17818279B1887C0872221FC33D53804D</key>
-		<string>https://github.com/jianyaoang/Turn-Around.git</string>
+		<key>F44E31FCD8A1AFF1DAC3C2217D34353ED3BBF8A2</key>
+		<string>https://github.com/jianyaoang/Chat.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>JSQMessagesVC-Test/JSQMessagesVC-Test.xcworkspace</string>
+	<string>JSQMessagesVC-Test.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>B077713B17818279B1887C0872221FC33D53804D</key>
-		<string>../..</string>
+		<key>F44E31FCD8A1AFF1DAC3C2217D34353ED3BBF8A2</key>
+		<string>..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/jianyaoang/Turn-Around.git</string>
+	<string>https://github.com/jianyaoang/Chat.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>B077713B17818279B1887C0872221FC33D53804D</string>
+	<string>F44E31FCD8A1AFF1DAC3C2217D34353ED3BBF8A2</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>B077713B17818279B1887C0872221FC33D53804D</string>
+			<string>F44E31FCD8A1AFF1DAC3C2217D34353ED3BBF8A2</string>
 			<key>IDESourceControlWCCName</key>
-			<string>testing</string>
+			<string>Chat</string>
 		</dict>
 	</array>
 </dict>
